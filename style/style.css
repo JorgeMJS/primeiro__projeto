@@ -169,6 +169,12 @@ body {
 
 }
 
+.rodape {
+
+    text-align: center;    
+    background-color: var(--cor-efeito);
+}
+
 @media (max-width: 1050px) {
 
     .cabecalho {
